@@ -2,7 +2,7 @@
 
 ## Warning
 
-The audio produced by this appliation can unprediable. It has undergone signifigant testing but there are no guarantees. You have been warned.
+The audio produced by this appliation can be unprediable. It has undergone signifigant testing but there are no guarantees. You have been warned.
 
 ## Introduction
 
